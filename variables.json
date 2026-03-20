@@ -16190,7 +16190,7 @@
       },
       "4788:0": {
         "type": "VARIABLE_ALIAS",
-        "id": "VariableID:2892:1952"
+        "id": "VariableID:2892:1953"
       },
       "6189:0": {
         "type": "VARIABLE_ALIAS",
@@ -16259,9 +16259,9 @@
         "a": 1
       },
       "4788:0": {
-        "r": 0.6000000238418579,
-        "g": 0.6000000238418579,
-        "b": 0.6000000238418579,
+        "r": 0.4000000059604645,
+        "g": 0.4000000059604645,
+        "b": 0.4000000059604645,
         "a": 1
       },
       "6189:0": {
@@ -63701,6 +63701,531 @@
     }
   },
   {
+    "id": "VariableID:25729:886",
+    "name": "Style/Text/Selector/Label Selected/Font Weight",
+    "description": "",
+    "type": "FLOAT",
+    "collectionId": "VariableCollectionId:20:25556",
+    "collectionName": "Branded Toolkit",
+    "valuesByMode": {
+      "20:2": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:3071:1719"
+      },
+      "2204:2": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:3071:1728"
+      },
+      "2204:3": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:3071:1731"
+      },
+      "2341:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:3071:1734"
+      },
+      "2341:1": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:3071:1737"
+      },
+      "4599:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:3071:1737"
+      },
+      "4788:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:3071:1728"
+      },
+      "6189:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:6188:39"
+      },
+      "9520:1": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:3071:1734"
+      },
+      "10259:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:3071:1731"
+      },
+      "17358:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:3071:1738"
+      },
+      "19014:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:3071:1734"
+      },
+      "19465:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:3071:1734"
+      },
+      "20596:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:3071:1734"
+      }
+    },
+    "resolvedValuesByMode": {
+      "20:2": 400,
+      "2204:2": 400,
+      "2204:3": 350,
+      "2341:0": 400,
+      "2341:1": 400,
+      "4599:0": 400,
+      "4788:0": 400,
+      "6189:0": 400,
+      "9520:1": 400,
+      "10259:0": 350,
+      "17358:0": 700,
+      "19014:0": 400,
+      "19465:0": 400,
+      "20596:0": 400
+    }
+  },
+  {
+    "id": "VariableID:25812:879",
+    "name": "Style/Selector/Border Radius/Curved M",
+    "description": "",
+    "type": "FLOAT",
+    "collectionId": "VariableCollectionId:20:25556",
+    "collectionName": "Branded Toolkit",
+    "valuesByMode": {
+      "20:2": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:13203"
+      },
+      "2204:2": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:13203"
+      },
+      "2204:3": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:13212"
+      },
+      "2341:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:13212"
+      },
+      "2341:1": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:13203"
+      },
+      "4599:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:13203"
+      },
+      "4788:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:13207"
+      },
+      "6189:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:13204"
+      },
+      "9520:1": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:13212"
+      },
+      "10259:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:13212"
+      },
+      "17358:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:13206"
+      },
+      "19014:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:13212"
+      },
+      "19465:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:13212"
+      },
+      "20596:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:13212"
+      }
+    },
+    "resolvedValuesByMode": {
+      "20:2": 6,
+      "2204:2": 6,
+      "2204:3": 0,
+      "2341:0": 0,
+      "2341:1": 6,
+      "4599:0": 6,
+      "4788:0": 8,
+      "6189:0": 4,
+      "9520:1": 0,
+      "10259:0": 0,
+      "17358:0": 24,
+      "19014:0": 0,
+      "19465:0": 0,
+      "20596:0": 0
+    }
+  },
+  {
+    "id": "VariableID:25738:18371",
+    "name": "Style/Mega Nav/link/Font Color",
+    "description": "",
+    "type": "COLOR",
+    "collectionId": "VariableCollectionId:20:25556",
+    "collectionName": "Branded Toolkit",
+    "valuesByMode": {
+      "20:2": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:12826"
+      },
+      "2204:2": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2892:1953"
+      },
+      "2204:3": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:13118"
+      },
+      "2341:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:9668:41"
+      },
+      "2341:1": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2892:1952"
+      },
+      "4599:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:10618:2718"
+      },
+      "4788:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2892:1953"
+      },
+      "6189:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2892:1952"
+      },
+      "9520:1": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:9668:41"
+      },
+      "10259:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2892:1952"
+      },
+      "17358:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:10618:2718"
+      },
+      "19465:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:9668:40"
+      },
+      "20596:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:9668:40"
+      }
+    },
+    "resolvedValuesByMode": {
+      "20:2": {
+        "r": 1,
+        "g": 0.4960828125476837,
+        "b": 0.7322940230369568,
+        "a": 1
+      },
+      "2204:2": {
+        "r": 0.4000000059604645,
+        "g": 0.4000000059604645,
+        "b": 0.4000000059604645,
+        "a": 1
+      },
+      "2204:3": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "2341:0": {
+        "r": 0.4588235318660736,
+        "g": 0.4588235318660736,
+        "b": 0.4588235318660736,
+        "a": 1
+      },
+      "2341:1": {
+        "r": 0.6000000238418579,
+        "g": 0.6000000238418579,
+        "b": 0.6000000238418579,
+        "a": 1
+      },
+      "4599:0": {
+        "r": 0.29019609093666077,
+        "g": 0.29019609093666077,
+        "b": 0.29019609093666077,
+        "a": 1
+      },
+      "4788:0": {
+        "r": 0.4000000059604645,
+        "g": 0.4000000059604645,
+        "b": 0.4000000059604645,
+        "a": 1
+      },
+      "6189:0": {
+        "r": 0.4000000059604645,
+        "g": 0.4000000059604645,
+        "b": 0.4000000059604645,
+        "a": 1
+      },
+      "9520:1": {
+        "r": 0.4588235318660736,
+        "g": 0.4588235318660736,
+        "b": 0.4588235318660736,
+        "a": 1
+      },
+      "10259:0": {
+        "r": 0.6000000238418579,
+        "g": 0.6000000238418579,
+        "b": 0.6000000238418579,
+        "a": 1
+      },
+      "17358:0": {
+        "r": 0.29019609093666077,
+        "g": 0.29019609093666077,
+        "b": 0.29019609093666077,
+        "a": 1
+      },
+      "19465:0": {
+        "r": 0.3490196168422699,
+        "g": 0.3490196168422699,
+        "b": 0.3490196168422699,
+        "a": 1
+      },
+      "20596:0": {
+        "r": 0.3490196168422699,
+        "g": 0.3490196168422699,
+        "b": 0.3490196168422699,
+        "a": 1
+      }
+    }
+  },
+  {
+    "id": "VariableID:25829:9315",
+    "name": "Style/Mega Nav/link/Fill",
+    "description": "",
+    "type": "COLOR",
+    "collectionId": "VariableCollectionId:20:25556",
+    "collectionName": "Branded Toolkit",
+    "valuesByMode": {
+      "20:2": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:12825"
+      },
+      "2204:2": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:12934"
+      },
+      "2204:3": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:13122"
+      },
+      "2341:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:12934"
+      },
+      "2341:1": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:12938"
+      },
+      "4599:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:12938"
+      },
+      "4788:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:12934"
+      },
+      "6189:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:6189:42"
+      },
+      "9520:1": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:9668:45"
+      },
+      "10259:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:12934"
+      },
+      "17358:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:2539:12938"
+      },
+      "19465:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:9668:45"
+      },
+      "20596:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:9668:45"
+      }
+    },
+    "resolvedValuesByMode": {
+      "20:2": {
+        "r": 1,
+        "g": 0.879790723323822,
+        "b": 0.9472766518592834,
+        "a": 1
+      },
+      "2204:2": {
+        "r": 0.9490196108818054,
+        "g": 0.9490196108818054,
+        "b": 0.9490196108818054,
+        "a": 1
+      },
+      "2204:3": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "2341:0": {
+        "r": 0.9490196108818054,
+        "g": 0.9490196108818054,
+        "b": 0.9490196108818054,
+        "a": 1
+      },
+      "2341:1": {
+        "r": 0.9686274528503418,
+        "g": 0.9686274528503418,
+        "b": 0.9686274528503418,
+        "a": 1
+      },
+      "4599:0": {
+        "r": 0.9686274528503418,
+        "g": 0.9686274528503418,
+        "b": 0.9686274528503418,
+        "a": 1
+      },
+      "4788:0": {
+        "r": 0.9490196108818054,
+        "g": 0.9490196108818054,
+        "b": 0.9490196108818054,
+        "a": 1
+      },
+      "6189:0": {
+        "r": 0.9803921580314636,
+        "g": 0.9803921580314636,
+        "b": 0.9803921580314636,
+        "a": 1
+      },
+      "9520:1": {
+        "r": 0.9529411792755127,
+        "g": 0.9529411792755127,
+        "b": 0.9529411792755127,
+        "a": 1
+      },
+      "10259:0": {
+        "r": 0.9490196108818054,
+        "g": 0.9490196108818054,
+        "b": 0.9490196108818054,
+        "a": 1
+      },
+      "17358:0": {
+        "r": 0.9686274528503418,
+        "g": 0.9686274528503418,
+        "b": 0.9686274528503418,
+        "a": 1
+      },
+      "19465:0": {
+        "r": 0.9529411792755127,
+        "g": 0.9529411792755127,
+        "b": 0.9529411792755127,
+        "a": 1
+      },
+      "20596:0": {
+        "r": 0.9529411792755127,
+        "g": 0.9529411792755127,
+        "b": 0.9529411792755127,
+        "a": 1
+      }
+    }
+  },
+  {
+    "id": "VariableID:25829:9325",
+    "name": "Style/Mega Nav/link/Border Width",
+    "description": "",
+    "type": "FLOAT",
+    "collectionId": "VariableCollectionId:20:25556",
+    "collectionName": "Branded Toolkit",
+    "valuesByMode": {
+      "20:2": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:12163:1745"
+      },
+      "2204:2": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:12163:1745"
+      },
+      "2204:3": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:12163:1746"
+      },
+      "2341:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:12163:1745"
+      },
+      "2341:1": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:12163:1745"
+      },
+      "4599:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:12163:1745"
+      },
+      "4788:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:12163:1745"
+      },
+      "6189:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:12163:1745"
+      },
+      "9520:1": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:12163:1745"
+      },
+      "10259:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:12163:1745"
+      },
+      "17358:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:12163:1745"
+      },
+      "19465:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:12163:1745"
+      },
+      "20596:0": {
+        "type": "VARIABLE_ALIAS",
+        "id": "VariableID:12163:1745"
+      }
+    },
+    "resolvedValuesByMode": {
+      "20:2": 0,
+      "2204:2": 0,
+      "2204:3": 1,
+      "2341:0": 0,
+      "2341:1": 0,
+      "4599:0": 0,
+      "4788:0": 0,
+      "6189:0": 0,
+      "9520:1": 0,
+      "10259:0": 0,
+      "17358:0": 0,
+      "19465:0": 0,
+      "20596:0": 0
+    }
+  },
+  {
     "id": "S:b23b8e46c326f2b23791cd6913b1620a73e9f32e,",
     "name": "Core - Web/Title Large",
     "description": "Used once per page for short to midlength titles",
@@ -64935,6 +65460,28 @@
   {
     "id": "S:0a268f21f0e0ed42c61b1788f80533b7745f5300,",
     "name": "Selector/Label Default",
+    "description": "Short format text within a selectable container (e.g. \"M\" in a size Selector component, or \"Sign in or join\" link in Fulfillment Tile)",
+    "type": "STRING",
+    "collectionId": "mock-text-styles-collection",
+    "collectionName": "Text Styles",
+    "valuesByMode": {
+      "default": {
+        "family": "Roboto Mono",
+        "style": "Regular",
+        "fontSize": 12,
+        "lineHeight": {
+          "unit": "AUTO"
+        },
+        "letterSpacing": {
+          "unit": "PIXELS",
+          "value": 0
+        }
+      }
+    }
+  },
+  {
+    "id": "S:f4cd6871bacb9808010843e398280b3e9acf321a,",
+    "name": "Selector/Label Selected",
     "description": "Short format text within a selectable container (e.g. \"M\" in a size Selector component, or \"Sign in or join\" link in Fulfillment Tile)",
     "type": "STRING",
     "collectionId": "mock-text-styles-collection",
